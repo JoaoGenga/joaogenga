@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there visitor👋
+
+# This readme goal is to explain a little about myself and my career for those who do not know me. 
+
+With a career that started in Front-End development, i gained practical experience with React at a retail chain's ecommerce. Aiming to become a Full Stack developer, expanded my skills by working at one of the country's largest private banks to develop and maintain Python APIs and by developing an internal platform with Angular. This experience allowed me to work on different projects necessities, solidifying my ability to transition between front and back-end.
 
 <!--
 **JoaoGenga/joaogenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
