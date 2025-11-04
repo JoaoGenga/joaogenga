@@ -12,7 +12,7 @@ If you read until this point, know that I intend to try and be more active in gi
 
 - Currently building my own website and studying for an AWS certification.
 - (Plus trying to find some older projects to upload)
-- 
+  
 ### Contact info
 
 - You can reach me at joaogenga@gmail.com
