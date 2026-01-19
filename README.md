@@ -11,6 +11,7 @@ If you read until this point, know that I intend to try and be more active in gi
 ### What i am up to
 
 - Currently building my own website and studying for an AWS certification.
+- Also working on a SaaS ideia related to some of my last job atribuitions
 - (Plus trying to find some older projects to upload)
   
 ### Contact info
