@@ -6,12 +6,14 @@ With a career that started in Front-End development, I gained practical experien
 
 In the beginning of 2023, after leaving my front-end only job (in which i used this account but in private repos) I began working for Itaú Unibanco, a huge private bank in Brazil, but this time i got a company owned github account, which explains my lack of activity here. Although i am willing to assume part of the fault, once i did some personal and, lots of, university projects but ended up not versioning them 😶‍🌫️.
 
-If you read until this point, know that I intend to try and be more active in github from now on, and if you are an employer, i hope you give me a shot at whatever position is available! 😊
+If you read until this point and you are an employer, i hope you give me a shot at whatever position is available! 😊
 
 ### What i am up to
 
+- Finishing my CS degree, on my last semester, still some months to finish and present my Undergraduate Thesis.
 - Currently building my own website and studying for an AWS certification.
-- Also working on a SaaS ideia related to some of my last job atribuitions
+- Also working on a SaaS ideia related to some of my last job atribuitions.
+- Learning and working with Java, Maven, Tomcat, MySql etc. in servers on premises.
 - (Plus trying to find some older projects to upload)
   
 ### Contact info
