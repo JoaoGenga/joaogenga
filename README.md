@@ -10,11 +10,10 @@ If you read until this point and you are an employer, i hope you give me a shot 
 
 ### What i am up to
 
-- Finishing my CS degree, on my last semester, still some months to finish and present my Undergraduate Thesis.
+- Finishing my CS degree, on my last semester, still some months to finish and present my Undergraduate Thesis (Update 08/24/2026: Still working on it and will probably make repo about it when i'm done. I really wish i pushed more in here but to be honest i have been so busy that when i am free i don't feel like coding).
 - Currently building my own website and studying for an AWS certification.
-- Also working on a SaaS ideia related to some of my last job atribuitions.
-- Learning and working with Java, Maven, Tomcat, MySql etc. in servers on premises.
-- (Plus trying to find some older projects to upload)
+- Learning and working with multiple Java versions (vanilla, no framework), Maven, MySql etc. in local servers (or "on premises", at least that's how we say it in Brazil).
+- (Plus trying to find some older projects to upload) (Second update 08/24/2026: Did not find any. I know it goes a little bit against currrent dev world tendencies but if i were to start a project relted to AI i don't think it would be some business idea, probably something more low level nd related to math and music, just don't know exactly what. At least my thesis is in a similar field, studying time series in my uni AI lab - IARA++ - A pun referencing a brazilian traditional mermaid myth)
   
 ### Contact info
 
